@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="VekPort.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Vek0000" x="0" y="0" width="261" height="255"/>
+	<SubTexture name="SadVek0000" x="261" y="0" width="263" height="266"/>
+</TextureAtlas>

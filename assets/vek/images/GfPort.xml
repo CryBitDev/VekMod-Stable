@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GfPort.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GfPortrait0000" x="0" y="0" width="324" height="249"/>
+	<SubTexture name="ScaredGf0000" x="0" y="249" width="309" height="252"/>
+</TextureAtlas>

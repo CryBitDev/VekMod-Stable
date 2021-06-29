@@ -1,0 +1,7 @@
+Tutorial:gf:1
+Brigand:vek:1
+Larcenist:vek:1
+Unhinged:vek:1
+Echo:vek:1
+
+
